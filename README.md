@@ -74,16 +74,17 @@ videos.
 
 ## Content:
 <!-- * [Overview](#overview) -->
-* [SR-CACO-2 dataset: LICENSE/download](#download-sr-caco-2)
+* [BAH dataset: Download](#download-bah)
 * [Installation of the environments](#reqs)
-* [Preprocessing](#prep)
-* [Dataset path](#datasets)
+* [Supported modalities](#smodal)
+* [Pre-processing](#prep)
 * [Run code](#run)
 * [Pretrained weights (evaluation)](#weights)
-* [SR-CACO-2 presentation](#sr-caco-2)
+<!-- * [BAH presentation](#bah) -->
 
-## <a name='reqs'> Install</a>:
 
+## <a name='download-bah'> BAH dataset: Download </a>:
+To download BAH dataset, please fill in this form which includes siging and uploading the End-User License Agreement (EULA). You will receive a link to download BAH dataset: [EULA](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY).
 
 ## <a name='reqs'> Installation of the environments
 ```bash
@@ -94,13 +95,14 @@ videos.
 ./create_v_env_main.sh
 ```
 
-## Supported modalities:
+## <a name='smodal'> Supported modalities:
 - Vision: `vision`
 - Audio: `vggish`
 - Text: `bert`
 
 
 ## <a name='prep'> Pre-processing:
+
 Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt)
 and download the required file and unzip it. Adjust `get_root_wsol_dataset()
 ` in [./abaw5_pre_processing/dlib/tools.py](./abaw5_pre_processing/dlib/tools.py)
