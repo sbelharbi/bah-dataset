@@ -24,6 +24,7 @@ Eric Granger<sup>1</sup>**
 
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/xxxx.xxxxx)
 
 ## Abstract
 Recognizing complex emotions linked to ambivalence and hesitancy (A/H) can play
