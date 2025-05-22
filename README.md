@@ -67,7 +67,7 @@ videos.
     Koerich, A. L. and Pedersoli, M. and Bacon, S. L. and Granger, E.},
   journal={CoRR},
   volume={abs/xxxx.xxxxx},
-  year={2024}
+  year={2025}
 }
 ```
 
