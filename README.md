@@ -12,7 +12,7 @@ Marco Pedersoli<sup>1</sup>,
 Simon L. Bacon<sup>3,4</sup>,
 Eric Granger<sup>1</sup>**
 
-<sup>1</sup> LIVIA, ILLS, Dept. of Systems Engineering, ETS Montreal, Canada
+<sup>1</sup> LIVIA, Dept. of Systems Engineering, ETS Montreal, Canada
 <br/>
 <sup>2</sup> LIVIA, Dept. of Software and IT Engineering, ETS Montreal, Canada
 <br/>
