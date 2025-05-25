@@ -63,8 +63,8 @@ videos.
 ```
 @article{gonzalez-25,
   title={BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change},
-  author={González-González, M. and Belharbi, S. and Zeeshan, M. O. and Aslam, M. H and
-    Koerich, A. L. and Pedersoli, M. and Bacon, S. L. and Granger, E.},
+  author={González-González, M. and Belharbi, S. and Zeeshan, M. O. and
+  Sharafi, M. and Aslam, M. H and Pedersoli, M. and Koerich, A. L. and Bacon, S. L. and Granger, E.},
   journal={CoRR},
   volume={abs/xxxx.xxxxx},
   year={2025}
