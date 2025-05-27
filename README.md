@@ -1,4 +1,4 @@
-# [BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change](https://arxiv.org/pdf/xxxx.xxxxx)
+# [BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change](https://arxiv.org/pdf/2505.19328)
 
 
 by
@@ -24,7 +24,7 @@ Eric Granger<sup>1</sup>**
 
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.19328-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2505.19328)
 
 ## Abstract
 Recognizing complex emotions linked to ambivalence and hesitancy (A/H) can play
@@ -67,7 +67,7 @@ videos.
     Sharafi, M. and Aslam, M. H and Pedersoli, M. and Koerich, A. L. and
     Bacon, S. L. and Granger, E.},
   journal={CoRR},
-  volume={abs/xxxx.xxxxx},
+  volume={abs/2505.19328},
   year={2025}
 }
 ```
