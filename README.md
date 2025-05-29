@@ -59,6 +59,7 @@ videos.
 
 **Code: Pytorch 2.2.2**
 
+ssss
 
 ## Citation:
 ```
@@ -97,7 +98,7 @@ videos.
 
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
 
-To download BAH dataset, please fill in this form which includes siging and uploading the End-User License Agreement (EULA): [*BAH* DATSET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
+To download BAH dataset, please fill in this form which includes signing and uploading the End-User License Agreement (EULA): [*BAH* DATASET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
 
 ## <a name='reqs'> Installation of the environments
 ```bash
