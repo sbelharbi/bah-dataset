@@ -1,4 +1,4 @@
-# [BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change](https://arxiv.org/pdf/2505.19328)
+# [*BAH* Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change](https://arxiv.org/pdf/2505.19328)
 
 
 by
@@ -38,19 +38,19 @@ Automatic learning systems provide a cost-effective alternative that can adapt
 to individual users, and operate  seamlessly within real-time, resource-limited
  environments. However, there are currently no datasets available for the design
  of ML models to recognize A/H.
-This paper introduces a first Behavioural Ambivalence/Hesitancy (BAH) dataset
+This paper introduces a first Behavioural Ambivalence/Hesitancy (*BAH*) dataset
 collected for subject-based multimodal recognition of A/H in videos.  It
 contains videos from 224 subjects captured across 9 provinces in Canada, with
 different age, and ethnicity. Through our web platform, we recruited subjects
 to answer 7 questions, some of which were designed to elicit A/H while recording
- themselves via webcam with microphone. BAH amounts to 1,118 videos for a total
+ themselves via webcam with microphone. *BAH* amounts to 1,118 videos for a total
  duration of 8.26 hours with 1.5 hours of A/H.  Our behavioural team annotated
  timestamp segments to indicate where A/H occurs, and provide frame- and
  video-level annotations with the A/H cues. Video transcripts and their
  timestamps are also included, along with cropped and aligned faces in each
  frame, and a variety of subject meta-data.
 Additionally, this paper provides preliminary benchmarking results baseline
-models for BAH at frame- and video-level recognition with mono- and multi-modal
+models for *BAH* at frame- and video-level recognition with mono- and multi-modal
 setups. It also includes results on models for zero-shot prediction, and for
 personalization using unsupervised domain adaptation. The limited performance
 of baseline models highlights the challenges of recognizing A/H in real-world
@@ -76,7 +76,7 @@ videos.
 
 ## Content:
 <!-- * [Overview](#overview) -->
-* [BAH dataset: Download](#download-bah)
+* [*BAH* dataset: Download](#download-bah)
 * [Installation of the environments](#reqs)
 * [Supported modalities](#smodal)
 * [Pre-processing](#prep)
@@ -85,8 +85,15 @@ videos.
 <!-- * [BAH presentation](#bah) -->
 
 
-## <a name='download-bah'> BAH dataset: Download </a>
-To download BAH dataset, please fill in this form which includes siging and uploading the End-User License Agreement (EULA). You will receive a link to download BAH dataset: [EULA](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY).
+## <a name='download-bah'> *BAH* dataset: Download </a>
+<span style="color:red">WHEN FILLING IN THE DATASET REQUEST FORM BELOW, in THE FIELD: \
+"What is the primary purpose of your request for access to the dataset?",
+PLAESE CHOOSE THE OPTION: "I am requesting access for other academic research purposes (e.g., thesis, lab project, independent study).".
+CURRENTLY, WE DO NOT PROVIDE *BAH* DATASET FOR ANY CHALLENGE.</span>
+
+<p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
+
+To download BAH dataset, please fill in this form which includes siging and uploading the End-User License Agreement (EULA): [*BAH* DATSET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
 
 ## <a name='reqs'> Installation of the environments
 ```bash
