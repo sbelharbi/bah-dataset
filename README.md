@@ -91,7 +91,7 @@ ssss
 ```diff
 - WHEN FILLING IN THE DATASET REQUEST FORM BELOW, IN THE FIELD:
 - "What is the primary purpose of your request for access to the dataset?",
-- PLAESE CHOOSE THE OPTION: "I am requesting access for other academic research purposes
+- PLEASE CHOOSE THE OPTION: "I am requesting access for other academic research purposes
 - (e.g., thesis, lab project, independent study)."
 - CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE.
 ```
