@@ -87,9 +87,13 @@ videos.
 
 ## <a name='download-bah'> *BAH* dataset: Download </a>
 
-<code style="color:red">WHEN FILLING IN THE DATASET REQUEST FORM BELOW, in THE FIELD: "What is the primary purpose of your request for access to the dataset?",
-PLAESE CHOOSE THE OPTION: "I am requesting access for other academic research purposes (e.g., thesis, lab project, independent study)." 
-CURRENTLY, WE DO NOT PROVIDE *BAH* DATASET FOR ANY CHALLENGE.</code>
+```diff
+- WHEN FILLING IN THE DATASET REQUEST FORM BELOW, IN THE FIELD:
+- "What is the primary purpose of your request for access to the dataset?",
+- PLAESE CHOOSE THE OPTION: "I am requesting access for other academic research purposes
+- (e.g., thesis, lab project, independent study)."
+- CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE.
+```
 
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
 
