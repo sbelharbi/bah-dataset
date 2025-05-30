@@ -59,7 +59,6 @@ videos.
 
 **Code: Pytorch 2.2.2**
 
-ssss
 
 ## Citation:
 ```
