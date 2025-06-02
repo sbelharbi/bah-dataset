@@ -102,7 +102,9 @@ To download BAH dataset, please fill in this form which includes signing and upl
 
 
 ## <a name='splits-bah'> *BAH* dataset: Splits </a>
-*BAH* dataset splits at video and level are located at [dataset-splits](./dataset-splits).
+We provide *BAH* dataset splits for both scenarios:
+- Supervised learning: at video and level are located at [dataset-splits](./dataset-splits).
+- Domain adaptation: comming up soon.
 
 ## <a name='reqs'> Installation of the environments
 ```bash
