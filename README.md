@@ -191,7 +191,7 @@ python abaw5_pre_processing/dlib/compact_face_images.py --ds BAH_DB --split test
 
 ```
 
-5. **Override frame label**: `stats.py` with `overload_real_frame_labels()`
+5. **Override frame label**: `set_frame_labels.py` with `overload_real_frame_labels()`
 
 ## Training:
 ```bash
