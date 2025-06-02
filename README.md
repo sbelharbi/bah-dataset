@@ -268,7 +268,7 @@ python main.py \
 ### *BAH*: Capture & Annotation
 
 <p align="center"><img src="doc/data-capturing.png" alt="Data capture" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/7-questions.png" alt="7 questions" width="90%"></p>
 <br/>
 
@@ -277,16 +277,16 @@ python main.py \
 
 
 <p align="center"><img src="doc/nutrition-label.jpg" alt="Nutrition label" width="90%"></p>
-<br/>
+<!-- <br/> -->
 
 <p align="center"><img src="doc/variability-1.png" alt="Dataset vairability" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/variability-2.png" alt="Dataset vairability" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/variability-3.png" alt="Dataset vairability" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/variability-4.png" alt="Dataset vairability" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/variability-5.png" alt="Dataset vairability" width="90%"></p>
 <br/>
 
