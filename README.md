@@ -77,6 +77,7 @@ videos.
 ## Content:
 <!-- * [Overview](#overview) -->
 * [*BAH* dataset: Download](#download-bah)
+* [*BAH* dataset: Splits](#splits-bah)
 * [Installation of the environments](#reqs)
 * [Supported modalities](#smodal)
 * [Pre-processing](#prep)
@@ -98,6 +99,10 @@ videos.
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
 
 To download BAH dataset, please fill in this form which includes signing and uploading the End-User License Agreement (EULA): [*BAH* DATASET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
+
+
+## <a name='splits-bah'> *BAH* dataset: Splits </a>
+*BAH* dataset splits at video and level are located at [dataset-splits](./dataset-splits).
 
 ## <a name='reqs'> Installation of the environments
 ```bash
