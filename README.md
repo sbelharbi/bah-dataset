@@ -22,6 +22,8 @@ Eric Granger<sup>1</sup>**
 
 
 
+<p align="center"><img src="doc/demo.png" alt="outline" width="90%"></p>
+<br/>
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
 [![Page](https://img.shields.io/badge/Dataset%20Webpage-orange)](https://sbelharbi.github.io/bah-dataset)
@@ -83,7 +85,7 @@ videos.
 * [Pre-processing](#prep)
 * [Run code](#run)
 * [Pretrained weights (evaluation)](#weights)
-<!-- * [BAH presentation](#bah) -->
+* [*BAH* presentation](#bah)
 
 
 ## <a name='download-bah'> *BAH* dataset: Download </a>
@@ -261,7 +263,91 @@ python main.py \
        --exp_id 05_14_2025_14_18_15_411877__5413229
 ```
 
+## <a name='bah'> *BAH* presentation </a>
+
+### *BAH*: Capture & Annotation
+
+<p align="center"><img src="doc/data-capturing.png" alt="Data capture" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/7-questions.png" alt="7 questions" width="90%"></p>
+<br/>
+
+### *BAH*: Variability
+
+
+
+<p align="center"><img src="doc/nutrition-label.jpg" alt="Nutrition label" width="90%"></p>
+<br/>
+
+<p align="center"><img src="doc/variability-1.png" alt="Dataset vairability" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/variability-2.png" alt="Dataset vairability" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/variability-3.png" alt="Dataset vairability" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/variability-4.png" alt="Dataset vairability" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/variability-5.png" alt="Dataset vairability" width="90%"></p>
+<br/>
+
+
+### *BAH*: Experimental Protocol
+
+<p align="center"><img src="doc/dataset-split.png" alt="Dataset: splits" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/dataset-imbalance.png" alt="Dataset imbalance" width="90%"></p>
+<br/>
+
+
+### Experiments: Baselines
+
+#### 1) Frame-level supervised classification using multimodal
+<p align="center"><img src="doc/multimodal.png" alt="Dataset: multimodal" width="90%"></p>
+<br/>
+
+<p align="center"><img src="doc/frame-multimodal.png" alt="Dataset: Frame - multimodal" width="90%"></p>
+<br/>
+
+
+
+<p align="center"><img src="doc/frame-fusion.png" alt="Dataset: Frame - fusion" width="90%"></p>
+<br/>
+
+
+
+#### 2) Video-level supervised classification using multimodal
+
+<p align="center"><img src="doc/video-performance.png" alt="Dataset: Video - performance" width="90%"></p>
+<br/>
+
+
+#### 3) Zero-shot performance: Frame- & video-level
+
+<p align="center"><img src="doc/zero-shot-frame.png" alt="Dataset: Zero shot - frame - performance" width="90%"></p>
+<br/>
+<p align="center"><img src="doc/zero-shot-video.png" alt="Dataset: Zero shot - video - performance" width="90%"></p>
+<br/>
+
+
+#### 4) Personalization using domain adaptation (frame-level)
+
+<p align="center"><img src="doc/personalization-da.png" alt="Dataset: Personalization- domain adaptation - performance" width="90%"></p>
+<br/>
+
+
+
+### Conclusion
+
+This work introduces a new and unique multimodal and subject-based video dataset, *BAH*, for A/H recognition in videos.
+*BAH* contains 224 participants across 9 provinces in Canada. Recruited participants answer 7 designed questions to elicit A/H while recording themselves via webcam and microphone via our web-platform. The dataset amounts to 1,118 videos for a total duration of 8.26 hours with 1.5 hours of A/H. It was annotated by our behavioural team at video- and frame-level.
+
+Our initial benchmarking yielded limited performance highlighting the difficulty of A/H recognition. Our results showed also that leveraging context, multimodality, and adapted feature fusion is a first good direction to design robust models. Our dataset and code are made public.
+
+
+### Acknowledgments
+This work was supported in part by the Fonds de recherche du Québec – Santé, the Natural Sciences and Engineering Research Council of Canada, Canada Foundation for Innovation, and the Digital Research Alliance of Canada. We thank interns that participated in the dataset annotation: Jessica Almeida (Concordia University, Université du Québec à Montréal), and Laura Lucia Ortiz (MBMC).
+
+
 
 ## Thanks
-This code is heavily based on
-[github.com/sucv/ABAW3](https://github.com/sucv/ABAW3).
+This code is heavily based on [github.com/sucv/ABAW3](https://github.com/sucv/ABAW3).
