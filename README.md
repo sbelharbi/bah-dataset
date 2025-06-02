@@ -263,7 +263,7 @@ python main.py \
        --exp_id 05_14_2025_14_18_15_411877__5413229
 ```
 
-## <a name='bah'> *BAH* presentation </a>
+## <a name='bah'> *BAH* presentation: </a>
 
 ### *BAH*: Capture & Annotation
 
