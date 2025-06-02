@@ -23,7 +23,7 @@ Eric Granger<sup>1</sup>**
 
 
 <p align="center"><img src="doc/demo.png" alt="outline" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
 [![Page](https://img.shields.io/badge/Dataset%20Webpage-orange)](https://sbelharbi.github.io/bah-dataset)
