@@ -294,7 +294,7 @@ python main.py \
 ### *BAH*: Experimental Protocol
 
 <p align="center"><img src="doc/dataset-split.png" alt="Dataset: splits" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/dataset-imbalance.png" alt="Dataset imbalance" width="90%"></p>
 <br/>
 
@@ -303,13 +303,9 @@ python main.py \
 
 #### 1) Frame-level supervised classification using multimodal
 <p align="center"><img src="doc/multimodal.png" alt="Dataset: multimodal" width="90%"></p>
-<br/>
-
+<!-- <br/> -->
 <p align="center"><img src="doc/frame-multimodal.png" alt="Dataset: Frame - multimodal" width="90%"></p>
-<br/>
-
-
-
+<!-- <br/> -->
 <p align="center"><img src="doc/frame-fusion.png" alt="Dataset: Frame - fusion" width="90%"></p>
 <br/>
 
@@ -324,7 +320,7 @@ python main.py \
 #### 3) Zero-shot performance: Frame- & video-level
 
 <p align="center"><img src="doc/zero-shot-frame.png" alt="Dataset: Zero shot - frame - performance" width="90%"></p>
-<br/>
+<!-- <br/> -->
 <p align="center"><img src="doc/zero-shot-video.png" alt="Dataset: Zero shot - video - performance" width="90%"></p>
 <br/>
 
