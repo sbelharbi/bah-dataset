@@ -117,13 +117,13 @@ We provide *BAH* dataset splits for both scenarios:
 ./create_v_env_main.sh
 ```
 
-## <a name='smodal'> Supported modalities:
+## <a name='smodal'> Supported modalities
 - Vision: `vision`
 - Audio: `vggish`
 - Text: `bert`
 
 
-## <a name='prep'> Pre-processing:
+## <a name='prep'> Pre-processing
 
 Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt)
 and download the required file and unzip it. Adjust `get_root_wsol_dataset()
@@ -195,7 +195,7 @@ python abaw5_pre_processing/dlib/compact_face_images.py --ds BAH_DB --split test
 
 5. **Override frame label**: `set_frame_labels.py` with `overload_real_frame_labels()`
 
-## Training:
+## Training
 ```bash
 #!/usr/bin/env bash
 
@@ -263,7 +263,7 @@ python main.py \
        --exp_id 05_14_2025_14_18_15_411877__5413229
 ```
 
-## <a name='bah'> *BAH* presentation: </a>
+## <a name='bah'> *BAH* presentation </a>
 
 ### *BAH*: Capture & Annotation
 
