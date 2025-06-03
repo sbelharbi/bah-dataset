@@ -64,7 +64,7 @@ videos.
 
 ## Citation:
 ```
-@article{gonzalez-25,
+@article{gonzalez-25-bah,
   title={{BAH} Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change},
   author={González-González, M. and Belharbi, S. and Zeeshan, M. O. and
     Sharafi, M. and Aslam, M. H and Pedersoli, M. and Koerich, A. L. and
