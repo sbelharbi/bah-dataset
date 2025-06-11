@@ -90,15 +90,36 @@ videos.
 
 ## <a name='download-bah'> *BAH* dataset: Download </a>
 
+Please fill the request form carefully.
+
+* For the certification: `I certify that neither myself nor any of my research team are directly associated with an institution or organisation on Canada's Named Research Organisations List (see https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/sensitive-technology-research-and-affiliations-concern/named-research-organizations).`
+
 ```diff
-- WHEN FILLING IN THE DATASET REQUEST FORM BELOW, IN THE FIELD:
-- "What is the primary purpose of your request for access to the dataset?",
+- PLEASE ENSURE THAT THE AFFILIATION OF THE MAIN APPLICANT AND ANYONE HAVING 
+- ACCESS TO THE DATASET DOES NOT SHOW ON THE LIST OF ORGANIZATIONS LISTED IN THE LINK.
+- IF YOU CHOOSE `NO` AS ANSWER, UNFORTUNATELY, THE DATASET CAN NOT BE PROVIDED DUE 
+- TO LEGAL AND ETHICAL REASONS OUT OF OUR CONTROL.
+```
+<p align="center"><img src="doc/certify-org.png" alt="certify organisations" width="90%"></p>
+
+Search affiliations/institutions/organisations in the provided link [https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/sensitive-technology-research-and-affiliations-concern/named-research-organizations](https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/sensitive-technology-research-and-affiliations-concern/named-research-organizations):
+
+<p align="center"><img src="doc/org-filter.png" alt="Filter organisations" width="90%"></p>
+
+
+
+* For the question `What is the primary purpose of your request for access to the dataset?`:
+
+```diff
 - PLEASE CHOOSE THE OPTION: "I am requesting access for other academic research purposes
 - (e.g., thesis, lab project, independent study)."
-- CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE.
+- CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE. 
+- THE CURRENT PROVIDED VERSION CAN NOT BE USED FOR CHALLENGES.
 ```
 
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
+
+* If you have questions while filling in the request form, please contact us.
 
 To download BAH dataset, please fill in this form which includes signing and uploading the End-User License Agreement (EULA): [*BAH* DATASET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
 
