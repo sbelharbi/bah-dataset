@@ -90,7 +90,12 @@ videos.
 
 ## <a name='download-bah'> *BAH* dataset: Download </a>
 
-Please fill the request form carefully.
+To download BAH dataset, please fill in this form which includes signing and uploading the End-User License Agreement (EULA): [*BAH* DATASET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
+
+
+```diff
+- PLEASE FILL IN THE DATASET REQUEST FORM CAREFULLY.
+```
 
 * For the certification: `I certify that neither myself nor any of my research team are directly associated with an institution or organisation on Canada's Named Research Organisations List (see https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/sensitive-technology-research-and-affiliations-concern/named-research-organizations).`
 
@@ -121,7 +126,7 @@ Search affiliations/institutions/organisations in the provided link [https://sci
 
 * If you have questions while filling in the request form, please contact us.
 
-To download BAH dataset, please fill in this form which includes signing and uploading the End-User License Agreement (EULA): [*BAH* DATASET REQUEST FORM](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). You will receive a link to download *BAH* dataset.
+
 
 
 ## <a name='splits-bah'> *BAH* dataset: Splits </a>
