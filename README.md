@@ -100,9 +100,9 @@ To download BAH dataset, please fill in this form which includes signing and upl
 * For the certification: `I certify that neither myself nor any of my research team are directly associated with an institution or organisation on Canada's Named Research Organisations List (see https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/sensitive-technology-research-and-affiliations-concern/named-research-organizations).`
 
 ```diff
-- PLEASE ENSURE THAT THE AFFILIATION OF THE MAIN APPLICANT AND ANYONE HAVING 
+- PLEASE ENSURE THAT THE AFFILIATION OF THE MAIN APPLICANT AND ANYONE HAVING
 - ACCESS TO THE DATASET DOES NOT SHOW ON THE LIST OF ORGANIZATIONS LISTED IN THE LINK.
-- IF YOU CHOOSE `NO` AS ANSWER, UNFORTUNATELY, THE DATASET CAN NOT BE PROVIDED DUE 
+- IF YOU CHOOSE `NO` AS ANSWER, UNFORTUNATELY, THE DATASET CAN NOT BE PROVIDED DUE
 - TO LEGAL AND ETHICAL REASONS OUT OF OUR CONTROL.
 ```
 <p align="center"><img src="doc/certify-org.png" alt="certify organisations" width="90%"></p>
@@ -118,8 +118,8 @@ Search affiliations/institutions/organisations in the provided link [https://sci
 ```diff
 - PLEASE CHOOSE THE OPTION: "I am requesting access for other academic research purposes
 - (e.g., thesis, lab project, independent study)."
-- CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE. 
-- THE CURRENT PROVIDED VERSION CAN NOT BE USED FOR CHALLENGES.
+- CURRENTLY, WE DO NOT PROVIDE BAH DATASET FOR ANY CHALLENGE.
+- THE CURRENT PROVIDED BAH DATASET VERSION CAN NOT BE USED FOR CHALLENGES.
 ```
 
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
@@ -131,8 +131,8 @@ Search affiliations/institutions/organisations in the provided link [https://sci
 
 ## <a name='splits-bah'> *BAH* dataset: Splits </a>
 We provide *BAH* dataset splits for both scenarios:
-- Supervised learning: at video and level are located at [dataset-splits](./dataset-splits).
-- Domain adaptation: comming up soon.
+- Supervised learning: at video and frame level are located at [dataset-splits](./dataset-splits).
+- Domain adaptation: coming up soon.
 
 ## <a name='reqs'> Installation of the environments
 ```bash
