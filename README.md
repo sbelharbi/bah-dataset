@@ -124,6 +124,27 @@ Search affiliations/institutions/organisations in the provided link [https://sci
 
 <p align="center"><img src="doc/request-form.png" alt="request form" width="90%"></p>
 
+
+* For the section `Intended Use of the Dataset`:
+
+```diff
+- PLEASE PROVIDE SUFFICIENT SUMMARY OF THE INTENDED USES OF THIS DATASET.
+- PLEASE AVOID 1-2 SENTENCES.
+```
+
+<p align="center"><img src="doc/usage.png" alt="dataset usage" width="90%"></p>
+
+
+* For the section `Possible products`:
+
+```diff
+- PLEASE PROVIDE SUFFICIENT SUMMARY OF THE POSSIBLE PRODUCTS INTENDED FROM THIS DATASET.
+- PLEASE AVOID 1-2 SENTENCES.
+```
+
+<p align="center"><img src="doc/products.png" alt="dataset products" width="90%"></p>
+
+
 * If you have questions while filling in the request form, please contact us.
 
 
