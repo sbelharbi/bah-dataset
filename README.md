@@ -90,7 +90,7 @@ videos.
 
 ## <a name='download-bah'> *BAH* dataset: Download </a>
 
-To download BAH dataset, please fill in thE FOLLOWING form which includes signing and uploading the End-User License Agreement (EULA). You will receive a link to download *BAH* dataset.
+To download BAH dataset, please fill in the following form which includes signing and uploading the End-User License Agreement (EULA). You will receive a link to download *BAH* dataset.
 
 
 ```diff
