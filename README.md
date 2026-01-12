@@ -92,7 +92,11 @@ videos.
 ## <a name='download-bah'> *BAH* dataset: Download </a>
 
 ```diff
-- PLEASE NOTE THAT SINCE 11TH JAN 21026, WE ARE EXPERIENCING AN ISSUE WITH THE REQUEST FORM PAGE [https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY). IT IS TEMPORARILY UNAVAILABLE. WE ARE WORKING TO RESTORE IT BACK ONLINE AS SOON AS POSSIBLE. WE APOLOGIZE FOR THIS ISSUE.
+- TEMPORARY ISSUE WITH REQUEST FORM PAGE [https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY):
+- PLEASE NOTE THAT SINCE 11TH JAN 21026, WE ARE EXPERIENCING AN ISSUE WITH THE REQUEST FORM PAGE.
+- IT IS TEMPORARILY UNAVAILABLE.
+- WE ARE WORKING TO RESTORE IT BACK ONLINE AS SOON AS POSSIBLE.
+- WE APOLOGIZE FOR THIS ISSUE.
 ```
 To download BAH dataset, please fill in the following form which includes signing and uploading the End-User License Agreement (EULA). You will receive a link to download *BAH* dataset.
 
