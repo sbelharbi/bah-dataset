@@ -105,6 +105,10 @@ To download BAH dataset, please fill in the following form which includes signin
 - PLEASE FILL IN THE DATASET REQUEST FORM CAREFULLY TO AVOID ERRORS/DELAYS.
 - PLEASE FOLLOW THE NEXT INSTRUCTIONS.
 ```
+* Who can request *BAH* dataset? **only** full-time faculty position (for example: Assistant Professor, Associate Professor, or Professor) at a university, higher education institution, or equivalent organisation can request BAH dataset (fill in the form and sign the EULA). The applicant cannot be a student (UG/PG/Ph.D./Postdoc).
+
+<p align="center"><img src="doc/who-can-request.png" alt="Who can request BAH?" width="90%"></p>
+
 
 * *BAH* DATASET REQUEST FORM: [https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY](https://www.crhscm.ca/redcap/surveys/?s=LDMDDJR3AT9P37JY)
 
