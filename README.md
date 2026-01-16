@@ -98,7 +98,7 @@ videos.
 - WE ARE WORKING TO RESTORE IT BACK ONLINE AS SOON AS POSSIBLE.
 - WE APOLOGIZE FOR THIS ISSUE.
 ``` -->
-To download BAH dataset, please fill in the following form which includes signing and uploading the End-User License Agreement (EULA). You will receive a link to download *BAH* dataset. Please read the following instructions before requesting the dataset. It will help you avoid delays/errors.
+To download BAH dataset, please fill in the following form which includes signing and uploading the End-User License Agreement (EULA). You will receive a link to download *BAH* dataset. Please read the following instructions before requesting the dataset. It will help you avoid errors/delays.
 
 
 ```diff
