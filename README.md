@@ -407,10 +407,22 @@ python main.py \
 
 ### Conclusion
 
-This work introduces a new and unique multimodal and subject-based video dataset, *BAH*, for A/H recognition in videos.
-*BAH* contains 224 participants across 9 provinces in Canada. Recruited participants answer 7 designed questions to elicit A/H while recording themselves via webcam and microphone via our web-platform. The dataset amounts to 1,118 videos for a total duration of 8.26 hours with 1.5 hours of A/H. It was annotated by our behavioural team at video- and frame-level.
+This work introduces a new and unique multimodal and subject-based video dataset,
+*BAH*, for A/H recognition in videos.
+*BAH* contains 300 participants across 9 provinces in Canada. Recruited
+participants answer 7 designed questions to elicit A/H while recording
+themselves via webcam and microphone via our web-platform. The dataset amounts
+to 1,427 videos for a total duration of 10.60 hours with 1.79 hours of A/H. It
+was annotated by our behavioural team at video- and frame-level.
 
-Our initial benchmarking yielded limited performance highlighting the difficulty of A/H recognition. Our results showed also that leveraging context, multimodality, and adapted feature fusion is a first good direction to design robust models. Our dataset and code are made public.
+Our initial benchmarking yielded limited performance highlighting the difficulty
+of A/H recognition. Our results showed also that leveraging context, 
+multimodality, and adapted feature fusion is a first good direction to design
+robust models. Our dataset and code are made public.
+
+The following appendix contains related work, more detailed and relevant
+statistics about the datasets and its diversity, dataset limitations,
+implementation details, and additional results.
 
 
 ### Acknowledgments
