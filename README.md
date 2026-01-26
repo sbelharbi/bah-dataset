@@ -1,4 +1,4 @@
-# [*BAH* Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change](https://arxiv.org/pdf/2505.19328)
+# [*BAH* Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change (ICLR2026)](https://arxiv.org/pdf/2505.19328)
 
 
 by
@@ -65,14 +65,13 @@ videos.
 
 ## Citation:
 ```
-@article{gonzalez-25-bah,
+@inproceedings{gonzalez-25-bah,
   title={{BAH} Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change},
   author={González-González, M. and Belharbi, S. and Zeeshan, M. O. and
     Sharafi, M. and Aslam, M. H and Pedersoli, M. and Koerich, A. L. and
     Bacon, S. L. and Granger, E.},
-  journal={CoRR},
-  volume={abs/2505.19328},
-  year={2025}
+  booktitle={ICLR},
+  year={2026}
 }
 ```
 
