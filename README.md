@@ -31,33 +31,36 @@ Eric Granger<sup>1</sup>**
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/sbelharbi/bah-dataset)
 
 ## Abstract
-Recognizing complex emotions linked to ambivalence and hesitancy (A/H) can play
-a critical role in the personalization and effectiveness of digital behaviour
-change interventions. These subtle and conflicting emotions are manifested by
-a discord between multiple modalities, such as facial and vocal expressions,
-and body language. Although experts can be trained to identify A/H, integrating
-them into digital interventions is costly and less effective.
-Automatic learning systems provide a cost-effective alternative that can adapt
-to individual users, and operate  seamlessly within real-time, resource-limited
- environments. However, there are currently no datasets available for the design
- of ML models to recognize A/H.
-This paper introduces a first Behavioural Ambivalence/Hesitancy (*BAH*) dataset
-collected for subject-based multimodal recognition of A/H in videos.  It
-contains videos from 224 subjects captured across 9 provinces in Canada, with
-different age, and ethnicity. Through our web platform, we recruited subjects
-to answer 7 questions, some of which were designed to elicit A/H while recording
- themselves via webcam with microphone. *BAH* amounts to 1,118 videos for a total
- duration of 8.26 hours with 1.5 hours of A/H.  Our behavioural team annotated
- timestamp segments to indicate where A/H occurs, and provide frame- and
- video-level annotations with the A/H cues. Video transcripts and their
- timestamps are also included, along with cropped and aligned faces in each
- frame, and a variety of subject meta-data.
-Additionally, this paper provides preliminary benchmarking results baseline
-models for *BAH* at frame- and video-level recognition with mono- and multi-modal
-setups. It also includes results on models for zero-shot prediction, and for
-personalization using unsupervised domain adaptation. The limited performance
-of baseline models highlights the challenges of recognizing A/H in real-world
-videos.
+Ambivalence and hesitancy (A/H), a closely related construct, is the primary
+reasons why individuals delay, avoid, or abandon health behaviour changes.
+It is a subtle and conflicting emotion that sets a person in a state between
+positive and negative orientations, or between acceptance and refusal to do
+something. It manifests by a discord in affect between multiple modalities or
+within a modality, such as facial and vocal expressions, and body language.
+Although experts can be trained to recognize A/H as done for in-person
+interactions, integrating them into digital health interventions is costly and
+less effective. Automatic A/H recognition is therefore critical for the
+personalization and cost-effectiveness of digital behaviour change interventions.  
+However, no datasets currently exists for the design of machine learning models
+to recognize A/H.
+This paper introduces the Behavioural Ambivalence/Hesitancy (*BAH*) dataset
+collected for multimodal recognition of A/H in videos.  
+It contains 1,427 videos with a total duration of 10.60 hours captured from 300
+participants across Canada answering predefined questions to elicit A/H. It is
+intended to mirror real-world online personalized behaviour change interventions.
+ *BAH* is annotated by three experts to provide timestamps that
+indicate where A/H occurs, and frame- and video-level annotations with A/H cues.
+ Video transcripts, cropped and aligned faces, and participants' meta-data are
+ also provided. Since A and H manifest similarly in practice, we provide a binary
+ annotation indicating the presence or absence of A/H.
+Additionally, this paper includes benchmarking results using  baseline models on
+*BAH* for frame- and video-level recognition, zero-shot prediction, and
+personalization using source-free domain adaptation. The limited performance
+highlights the need for adapted multimodal and spatio-temporal models for A/H
+recognition. Results for specialized methods for fusion are shown to assess the
+presence of conflict between modalities, and for temporal modelling for
+within-modality conflict are essential for better A/H recognition.
+The data, code, and pretrained weights are publicly available.
 
 
 **Code: Pytorch 2.2.2**
