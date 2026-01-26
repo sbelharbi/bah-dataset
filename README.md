@@ -1,4 +1,4 @@
-# [*BAH* Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change (ICLR2026)](https://arxiv.org/pdf/2505.19328)
+# [*BAH* Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change (ICLR2026)](https://arxiv.org/pdf/2505.19328)
 
 
 by
@@ -416,7 +416,7 @@ to 1,427 videos for a total duration of 10.60 hours with 1.79 hours of A/H. It
 was annotated by our behavioural team at video- and frame-level.
 
 Our initial benchmarking yielded limited performance highlighting the difficulty
-of A/H recognition. Our results showed also that leveraging context, 
+of A/H recognition. Our results showed also that leveraging context,
 multimodality, and adapted feature fusion is a first good direction to design
 robust models. Our dataset and code are made public.
 
