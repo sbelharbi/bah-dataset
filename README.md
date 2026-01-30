@@ -384,26 +384,26 @@ python main.py \
 ### Experiments: Baselines
 
 #### 1) Frame-level supervised classification using multimodal
-<p align="center"><img src="doc/multimodal.png" alt="Dataset: multimodal" width="90%"></p>
+<p align="center"><img src="doc/multimodal.png" alt="Dataset: multimodal" width="50%"></p>
 <!-- <br/> -->
-<p align="center"><img src="doc/frame-multimodal.png" alt="Dataset: Frame - multimodal" width="90%"></p>
+<p align="center"><img src="doc/frame-multimodal.png" alt="Dataset: Frame - multimodal" width="50%"></p>
 <!-- <br/> -->
-<p align="center"><img src="doc/frame-fusion.png" alt="Dataset: Frame - fusion" width="90%"></p>
+<p align="center"><img src="doc/frame-fusion.png" alt="Dataset: Frame - fusion" width="50%"></p>
 <br/>
 
 
 
 #### 2) Video-level supervised classification using multimodal
 
-<p align="center"><img src="doc/video-performance.png" alt="Dataset: Video - performance" width="90%"></p>
+<p align="center"><img src="doc/video-performance.png" alt="Dataset: Video - performance" width="50%"></p>
 <br/>
 
 
 #### 3) Zero-shot performance: Frame- & video-level
 
-<p align="center"><img src="doc/zero-shot-frame.png" alt="Dataset: Zero shot - frame - performance" width="90%"></p>
+<p align="center"><img src="doc/zero-shot-frame.png" alt="Dataset: Zero shot - frame - performance" width="50%"></p>
 <!-- <br/> -->
-<p align="center"><img src="doc/zero-shot-video.png" alt="Dataset: Zero shot - video - performance" width="90%"></p>
+<p align="center"><img src="doc/zero-shot-video.png" alt="Dataset: Zero shot - video - performance" width="50%"></p>
 <br/>
 
 
