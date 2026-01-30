@@ -363,6 +363,13 @@ python main.py \
 <p align="center"><img src="doc/variability-4.png" alt="Dataset vairability" width="90%"></p>
 <!-- <br/> -->
 <p align="center"><img src="doc/variability-5.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-6.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-7.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-8.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-9.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-10.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-11.png" alt="Dataset vairability" width="90%"></p>
+<p align="center"><img src="doc/variability-12.png" alt="Dataset vairability" width="90%"></p>
 <br/>
 
 
