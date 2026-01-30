@@ -375,9 +375,9 @@ python main.py \
 
 ### *BAH*: Experimental Protocol
 
-<p align="center"><img src="doc/dataset-split.png" alt="Dataset: splits" width="50%"></p>
+<p align="center"><img src="doc/dataset-split.png" alt="Dataset: splits" width="90%"></p>
 <!-- <br/> -->
-<p align="center"><img src="doc/dataset-imbalance.png" alt="Dataset imbalance" width="50%"></p>
+<p align="center"><img src="doc/dataset-imbalance.png" alt="Dataset imbalance" width="90%"></p>
 <br/>
 
 
