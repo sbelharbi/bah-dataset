@@ -31,37 +31,41 @@ Eric Granger<sup>1</sup>**
 [![Page](https://img.shields.io/badge/Dataset%20Webpage-orange)](https://sbelharbi.github.io/bah-dataset)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19328-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2505.19328)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/sbelharbi/bah-dataset)
+[![Slides](https://img.shields.io/badge/Slides-green)](https://sbelharbi.github.io/material/bah-dataset/ICLR2026-presentation-BAH.pdf)
+[![Poster](https://img.shields.io/badge/Poster-orange)](https://sbelharbi.github.io/material/bah-dataset/ICLR2026-poster-BAH.pdf)
 
 ## Abstract
-Ambivalence and hesitancy (A/H), a closely related construct, is the primary
+Ambivalence and hesitancy (A/H), closely related constructs, are the primary
 reasons why individuals delay, avoid, or abandon health behaviour changes.
-It is a subtle and conflicting emotion that sets a person in a state between
+They are subtle and conflicting emotions that sets a person in a state between
 positive and negative orientations, or between acceptance and refusal to do
-something. It manifests by a discord in affect between multiple modalities or
+something. They manifest as a discord in affect between multiple modalities or
 within a modality, such as facial and vocal expressions, and body language.
 Although experts can be trained to recognize A/H as done for in-person
 interactions, integrating them into digital health interventions is costly and
 less effective. Automatic A/H recognition is therefore critical for the
-personalization and cost-effectiveness of digital behaviour change interventions.  
-However, no datasets currently exists for the design of machine learning models
-to recognize A/H.
+personalization and cost-effectiveness of digital behaviour change
+interventions. However, no datasets currently exist for the design of machine
+learning models to recognize A/H.
 This paper introduces the Behavioural Ambivalence/Hesitancy (*BAH*) dataset
-collected for multimodal recognition of A/H in videos.  
-It contains 1,427 videos with a total duration of 10.60 hours captured from 300
-participants across Canada answering predefined questions to elicit A/H. It is
-intended to mirror real-world online personalized behaviour change interventions.
- *BAH* is annotated by three experts to provide timestamps that
-indicate where A/H occurs, and frame- and video-level annotations with A/H cues.
- Video transcripts, cropped and aligned faces, and participants' meta-data are
- also provided. Since A and H manifest similarly in practice, we provide a binary
- annotation indicating the presence or absence of A/H.
-Additionally, this paper includes benchmarking results using  baseline models on
+collected for multimodal recognition of A/H in videos. It contains 1,427 videos
+with a total duration of 10.60 hours, captured from 300 participants across
+Canada, answering predefined questions to elicit A/H.  
+It is intended to mirror real-world digital behaviour change interventions
+delivered online. *BAH* is annotated by three experts to provide timestamps that
+indicate where A/H occurs, and frame- and video-level annotations with A/H
+cues. Video transcripts,  
+cropped and aligned faces, and participant metadata are also provided.
+Since A and H manifest similarly in practice, we provide a binary annotation
+indicating the presence or absence of A/H.
+Additionally, this paper includes benchmarking results using baseline models on
 *BAH* for frame- and video-level recognition, zero-shot prediction, and
-personalization using source-free domain adaptation. The limited performance
-highlights the need for adapted multimodal and spatio-temporal models for A/H
-recognition. Results for specialized methods for fusion are shown to assess the
-presence of conflict between modalities, and for temporal modelling for
-within-modality conflict are essential for better A/H recognition.
+personalization with source-free domain adaptation methods. The limited
+performance highlights the need for adapted multimodal and spatio-temporal
+models for A/H recognition. Results obtained with specialized fusion methods are
+shown to assess the presence of conflicts between modalities, additionally
+temporal modelling for within-modality conflicts are essential for more
+discriminant A/H recognition.
 The data, code, and pretrained weights are publicly available.
 
 
