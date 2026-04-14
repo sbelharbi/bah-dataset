@@ -82,6 +82,14 @@ The data, code, and pretrained weights are publicly available.
   booktitle={ICLR},
   year={2026}
 }
+
+@article{gonzalez-26-ah-digital,
+  title={Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions},
+  author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and Koerich, A.L. and Bacon, S.L. and Granger, E.},
+  journal={CoRR},
+  volume={abs/2604.11730},
+  year={2026}
+}
 ```
 
 
