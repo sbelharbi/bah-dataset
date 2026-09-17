@@ -7,8 +7,8 @@ Soufiane Belharbi<sup>1</sup>,
 Muhammad Osama Zeeshan<sup>1</sup>,
 Masoumeh Sharafi<sup>1</sup>,
 Muhammad Haseeb Aslam<sup>1</sup>,
-Alessandro Lameiras Koerich<sup>2</sup>,
 Marco Pedersoli<sup>1</sup>,
+Alessandro Lameiras Koerich<sup>2</sup>,
 Simon L. Bacon<sup>3,4</sup>,
 Eric Granger<sup>1</sup>**
 
@@ -84,7 +84,9 @@ The data, code, and pretrained weights are publicly available.
 }
 @inproceedings{gonzalez-26-ah-digital,
   title={Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions},
-  author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and Koerich, A.L. and Bacon, S.L. and Granger, E.},
+  author={González-González, M. and  Belharbi, S. and Zeeshan, M.O. and
+    Sharafi, M. and Aslam, M.H. and Sia, L. and Richet, N. and Pedersoli, M. and
+    Koerich, A.L. and Bacon, S.L. and Granger, E.},
   booktitle={Conference on Affective Computing and Intelligent Interaction (ACII)},
   year={2026}
 }
